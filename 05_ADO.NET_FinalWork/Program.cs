@@ -10,7 +10,11 @@ namespace _05_ADO.NET_FinalWork
             public string Name { get; set; }
         }
 
-
+        class Duplo
+        {
+            public int Id { get; set; }
+            public string Name { get; set; }
+        }
         class Genre
         {
             public int Id { get; set; }
